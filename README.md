@@ -1,0 +1,2 @@
+# GoRun
+Self teach GoLang
